@@ -16,6 +16,8 @@ def pods
     pod 'SocketRocket'
     pod 'JPush'
     pod 'Fabric'
+    pod 'Realm'
+    pod 'Kanna', '~> 1.1.0'
 end
 
 target 'Yep' do
