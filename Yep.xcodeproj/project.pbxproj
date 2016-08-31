@@ -4092,7 +4092,6 @@
 				TargetAttributes = {
 					0A8F54AA1AB67D11004AD60E = {
 						CreatedOnToolsVersion = 6.3;
-						DevelopmentTeam = TKRALRXCKN;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -4131,7 +4130,7 @@
 					};
 					50D3A3191CEDB1C500E59470 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = TKRALRXCKN;
+						DevelopmentTeam = LXK84B9CMH;
 					};
 					50D3A3221CEDB1C600E59470 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -4155,7 +4154,7 @@
 					};
 					50FE6F2C1D128B4C009BFEC7 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = TKRALRXCKN;
+						DevelopmentTeam = LXK84B9CMH;
 					};
 					50FE6F351D128B4C009BFEC7 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -5717,6 +5716,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Catch-Inc.Yep.YepNetworking";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -5744,6 +5744,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Catch-Inc.Yep.YepNetworking";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -5981,6 +5982,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Catch-Inc.Yep.YepPreview";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -6007,6 +6009,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Catch-Inc.Yep.YepPreview";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
